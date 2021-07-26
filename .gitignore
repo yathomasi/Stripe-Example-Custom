@@ -1,0 +1,15 @@
+# gitignore for react project
+
+.DS_Store
+.idea
+.idea/*
+
+/node_modules
+/build
+
+# env files
+.env
+
+# temp
+/temp 
+/tmp
